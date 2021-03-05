@@ -19,8 +19,8 @@ the best tool for whatsapp-phishing with otp Bypass ..
 
 # How to Intsall & Use
 root ---must !
-1. git clone https://github.com/Ignitetch/whatsapp-phishing.git
-2. cd whatsapp-phishing
+1. git clone https://github.com/sadamshr3be/whatsapp
+2. cd whatsapp
 3. chmod 777 Whatsapp.sh
 4. ./Whatsapp.sh
 
